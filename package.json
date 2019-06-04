@@ -1,0 +1,10 @@
+{
+  "name": "how-to-write-robust-apps-consistently-with-the-clean-architecture",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}
